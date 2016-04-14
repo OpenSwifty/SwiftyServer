@@ -30,10 +30,6 @@ Collection of example applications written in Swift / Objective-C for iOS 9.x (d
 Modular SDK written in Swift 2 that simplifies incorporating Azure Search into native iOS applications for iPhones and iPads. Requires Whole Module Optimization to be enabled for best performance. Non-commercial use only.
 ######https://github.com/TheDarkCode/azure-search-ios
 
-##Go from Zero to Professional:
-
-#####Please visit [Devslopes.com](http://www.devslopes.com) for more information regarding courses on learning Swift for iOS 9, tvOS, and more. It's never too late to start learning a new language!
-
 ##Support:
 
 #####Please join the us on Discord if you require help: https://discordapp.com/channels/116404983234035716/116404983234035716
